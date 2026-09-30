@@ -65,5 +65,8 @@ int main(){
     }
     tempo = buscabin(ni,qtdN,mi,qtdM);
     printf("%d\n", tempo);
+
+    free(ni);
+    free(mi);
     return 0;
 }
