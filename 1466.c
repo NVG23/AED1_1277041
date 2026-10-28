@@ -1,7 +1,15 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Nicolas Vendramin Gatti>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1466
+Data        : 28/10/2026
+Objetivo    : Imprimir uma arvore binaria em nivel.
+Dificuldade : <<<Aplicar a logica da fila no conceito pedido pelo exercicio>>>
+Uso de IA   : <<<Usei para me auxiliar a aplicar a logica da fila para fazer a impressao>>>
+-------------------------------------------------------------------------- */
 
+#include <stdio.h>
 
 // Criando estrutura da arvore
 struct arv {
