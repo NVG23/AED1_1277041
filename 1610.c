@@ -3,7 +3,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Nicolas Vendramin Gatti>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Problema    : https://judge.beecrowd.com/pt/problems/view/1610
 Data        : 18/11/2026
 Objetivo    : Implementar a estrutura de um grafo dirigido e analisar a existencia de cilcos.
 Dificuldade : <<<Adaptar o codigo dfs para identificar um ciclo>>>
